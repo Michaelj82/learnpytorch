@@ -8,4 +8,4 @@ Done w/ basic fundamentals
 
 [working on classification video](https://colab.research.google.com/drive/1f3EtfIasqNbK9Jc4s1n8JKtFt2il4hpP?usp=sharing)
 
-Now working on Computer Vision
+[Now working on Computer Vision](https://colab.research.google.com/drive/1ENCHIMQLjweZ_E2C0L63-0nN-TRf6Tcb?usp=sharing)
